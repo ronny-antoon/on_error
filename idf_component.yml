@@ -1,4 +1,4 @@
-version: "0.1.0"
+version: "0.1.10"
 license: "MIT"
 description: "The `on_error` component provides macros for handling errors and logging error messages in ESP32 applications."
 url: "https://github.com/ronny-antoon/on_error"  # The homepage of the component. It can be a GitHub repository page.
